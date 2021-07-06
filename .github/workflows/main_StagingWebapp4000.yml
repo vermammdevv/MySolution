@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'StagingWebapp4000'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_98281db30bcc463aad1688ccdf485ded }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_bd473ebbfc864151a910320b9a518935 }}
         package: .
